@@ -1,0 +1,5 @@
+{"type":"quote","timestamp":"2026-01-01T00:00:00Z","symbol":"BTC-USD","price":"100"}
+{"type":"intent","timestamp":"2026-01-01T00:00:01Z","symbol":"BTC-USD","side":"buy","units":"1","model_ref":"synthetic-001"}
+{"type":"intent","timestamp":"2026-01-01T00:00:02Z","symbol":"BTC-USD","side":"buy","units":"5","model_ref":"synthetic-002"}
+{"type":"halt","timestamp":"2026-01-01T00:00:03Z","reason":"operator fixture"}
+{"type":"intent","timestamp":"2026-01-01T00:00:04Z","symbol":"BTC-USD","side":"sell","units":"1","model_ref":"synthetic-003"}
