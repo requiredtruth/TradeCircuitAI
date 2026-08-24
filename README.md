@@ -3,7 +3,7 @@
 TradeCircuitAI is a deterministic **paper-only** safety boundary for model-generated trading intents. It answers: *would this proposed action pass explicit, replayable risk circuits, and what exact state transition would the paper simulator record?*
 
 ```sh
-./doit.sh
+./install.sh
 ```
 
 The one command runs the tests, compiles every module, and replays bundled synthetic events. It downloads nothing and needs no credentials.
